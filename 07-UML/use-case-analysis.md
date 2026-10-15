@@ -70,7 +70,7 @@ External services are not considered internal components of the TEKINO system.
 | UC-11 | Manage Products | Administrator | FR-12 |
 | UC-12 | Manage Inventory | Administrator | FR-13 |
 | UC-13 | Manage Orders | Administrator | FR-14 |
-| UC-14 | Manage Users | Administrator | To be specified |
+| UC-14 | Manage Users (Deferred) | Administrator | Pending requirement definition |
 
 ## 5. Main Use Case: Checkout / Place Order
 
@@ -86,7 +86,7 @@ If payment fails, the system informs the customer and does not mark the order as
 
 - Customer interacts with UC-01 through UC-08 and UC-10.
 - The Payment Gateway participates in UC-09.
-- Administrator interacts with UC-11 through UC-14.
+- Administrator interacts with UC-11 through UC-13 in the current diagram. UC-14 is deferred until its functional requirements are defined.
 
 The final UML diagram should show each actor outside the system boundary and the relevant use cases inside it.
 
