@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="2190" viewBox="0 0 1920 2190">
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker>
+  <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#0f172a" flood-opacity="0.09"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="960" y="48" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#0F172A">UML Activity Diagram — Purchase Product</text>
+<text x="960" y="83" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#475569">TEKINO Digital Products E-Commerce System · Main Shopping Process</text>
+
+<rect x="35" y="135" width="580" height="2025" rx="8" fill="#F8FAFC" stroke="#94A3B8" stroke-width="1.7"/>
+<path d="M43,135 H607 Q615,135 615,143 V203 H35 V143 Q35,135 43,135 Z" fill="#DBEAFE"/>
+<line x1="35" y1="203" x2="615" y2="203" stroke="#94A3B8" stroke-width="1.4"/>
+<text x="325.0" y="177" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="1.3" fill="#1E293B">CUSTOMER</text>
+<rect x="620" y="135" width="740" height="2025" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.7"/>
+<path d="M628,135 H1352 Q1360,135 1360,143 V203 H620 V143 Q620,135 628,135 Z" fill="#E2E8F0"/>
+<line x1="620" y1="203" x2="1360" y2="203" stroke="#94A3B8" stroke-width="1.4"/>
+<text x="990.0" y="177" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="1.3" fill="#1E293B">TEKINO SYSTEM</text>
+<rect x="1365" y="135" width="520" height="2025" rx="8" fill="#FFF7ED" stroke="#94A3B8" stroke-width="1.7"/>
+<path d="M1373,135 H1877 Q1885,135 1885,143 V203 H1365 V143 Q1365,135 1373,135 Z" fill="#FED7AA"/>
+<line x1="1365" y1="203" x2="1885" y2="203" stroke="#94A3B8" stroke-width="1.4"/>
+<text x="1625.0" y="177" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="1.3" fill="#1E293B">PAYMENT GATEWAY</text>
+<path d="M 325 237 L 325 242" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 490 288 L 700 288 L 700 350 L 785 350" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 785 350 L 690 350 L 690 425 L 490 425" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 490 425 L 700 425 L 700 500 L 785 500" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 785 500 L 690 500 L 690 575 L 490 575" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 490 575 L 700 575 L 700 650 L 785 650" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 785 650 L 690 650 L 690 725 L 490 725" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 325 759 L 325 770 L 700 770 L 700 760 L 985 775" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 900 830 L 760 830 L 490 825" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="692" y="797" width="46" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="715" y="814" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#334155">No</text>
+<path d="M 985 885 L 985 900 L 700 900 L 700 930 L 490 930" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="820" y="873" width="46" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="843" y="890" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#334155">Yes</text>
+<path d="M 325 859 L 325 896" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 490 930 L 650 930 L 650 1000 L 785 1000" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 985 1036 L 985 1040" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 890 1100 L 700 1100 L 490 1120" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="677" y="1068" width="46" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="700" y="1085" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#334155">No</text>
+<path d="M 985 1160 L 985 1194" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="984" y="1163" width="46" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="1007" y="1180" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#334155">Yes</text>
+<path d="M 160 1120 L 65 1120 L 65 1000 L 785 1000" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 785 1230 L 690 1230 L 690 1340 L 490 1340" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 490 1340 L 690 1340 L 690 1450 L 785 1450" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 1185 1450 L 1460 1450" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 1625 1484 L 1625 1505" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 1625 1625 L 1300 1625 L 1300 1710 L 1185 1710" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="1297" y="1595" width="46" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="1320" y="1612" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#334155">Yes</text>
+<path d="M 1530 1565 L 1490 1565 L 1490 1640 L 560 1640 L 560 1710 L 490 1710" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="1067" y="1613" width="46" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="1090" y="1630" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#334155">No</text>
+<path d="M 985 1747 L 985 1793" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 985 1867 L 985 1968" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 325 1744 L 325 1775" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 405 1830 L 550 1830 L 550 1450 L 785 1450" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="537" y="1791" width="46" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="560" y="1808" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#334155">Yes</text>
+<path d="M 325 1885 L 325 1936" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="322" y="1895" width="46" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+<text x="345" y="1912" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#334155">No</text>
+<path d="M 325 2004 L 325 2053" fill="none" stroke="#475569" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<circle cx="325" cy="220" r="17.0" fill="#0F172A" stroke="#0F172A" stroke-width="2"/>
+<rect x="160.0" y="242.0" width="330" height="66" rx="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="325" y="270.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Browse / Search</text>
+<text x="325" y="292.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Products</text>
+<rect x="785.0" y="316.0" width="400" height="68" rx="13" fill="#FFFFFF" stroke="#475569" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="985" y="345.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Display Matching</text>
+<text x="985" y="367.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Products</text>
+<rect x="160.0" y="391.0" width="330" height="68" rx="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="325" y="431.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Select Product</text>
+<rect x="785.0" y="466.0" width="400" height="68" rx="13" fill="#FFFFFF" stroke="#475569" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="985" y="506.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Display Product Details</text>
+<rect x="160.0" y="541.0" width="330" height="68" rx="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="325" y="581.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Add Product to Cart</text>
+<rect x="785.0" y="614.0" width="400" height="72" rx="13" fill="#FFFFFF" stroke="#475569" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="985" y="645.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Update Cart &amp;</text>
+<text x="985" y="667.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Check Stock</text>
+<rect x="160.0" y="691.0" width="330" height="68" rx="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="325" y="731.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Proceed to Checkout</text>
+<polygon points="985,775.0 1070.0,830 985,885.0 900.0,830" fill="#FEF3C7" stroke="#B45309" stroke-width="2.2" filter="url(#shadow)"/>
+<text x="985" y="825.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#78350F">Customer</text>
+<text x="985" y="847.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#78350F">Authenticated?</text>
+<rect x="160.0" y="791.0" width="330" height="68" rx="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="325" y="820.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Register / Log In</text>
+<text x="325" y="842.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">(if needed)</text>
+<rect x="160.0" y="896.0" width="330" height="68" rx="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="325" y="936.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Enter Shipping Details</text>
+<rect x="785.0" y="964.0" width="400" height="72" rx="13" fill="#FFFFFF" stroke="#475569" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="985" y="995.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Validate Cart, Stock</text>
+<text x="985" y="1017.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">&amp; Shipping Details</text>
+<polygon points="985,1040.0 1080.0,1100 985,1160.0 890.0,1100" fill="#FEF3C7" stroke="#B45309" stroke-width="2.2" filter="url(#shadow)"/>
+<text x="985" y="1095.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#78350F">Cart &amp; Details</text>
+<text x="985" y="1117.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#78350F">Valid?</text>
+<rect x="160.0" y="1086.0" width="330" height="68" rx="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="325" y="1115.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Correct Details /</text>
+<text x="325" y="1137.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Update Cart</text>
+<rect x="785.0" y="1194.0" width="400" height="72" rx="13" fill="#FFFFFF" stroke="#475569" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="985" y="1225.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Calculate Total &amp;</text>
+<text x="985" y="1247.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Display Order Summary</text>
+<rect x="160.0" y="1306.0" width="330" height="68" rx="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="325" y="1346.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Review &amp; Confirm Order</text>
+<rect x="785.0" y="1414.0" width="400" height="72" rx="13" fill="#FFFFFF" stroke="#475569" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="985" y="1456.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Send Payment Request</text>
+<rect x="1460.0" y="1416.0" width="330" height="68" rx="13" fill="#FFFFFF" stroke="#C2410C" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="1625" y="1456.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Process Transaction</text>
+<polygon points="1625,1505.0 1720.0,1565 1625,1625.0 1530.0,1565" fill="#FEF3C7" stroke="#B45309" stroke-width="2.2" filter="url(#shadow)"/>
+<text x="1625" y="1560.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#78350F">Payment</text>
+<text x="1625" y="1582.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#78350F">Successful?</text>
+<rect x="785.0" y="1673.0" width="400" height="74" rx="13" fill="#FFFFFF" stroke="#475569" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="985" y="1705.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Validate Payment Result</text>
+<text x="985" y="1727.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">&amp; Create Order</text>
+<rect x="160.0" y="1676.0" width="330" height="68" rx="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="325" y="1705.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">View Payment Failure</text>
+<text x="325" y="1727.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Message</text>
+<polygon points="325,1775.0 405.0,1830 325,1885.0 245.0,1830" fill="#FEF3C7" stroke="#B45309" stroke-width="2.2" filter="url(#shadow)"/>
+<text x="325" y="1825.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#78350F">Retry</text>
+<text x="325" y="1847.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#78350F">Payment?</text>
+<rect x="785.0" y="1793.0" width="400" height="74" rx="13" fill="#FFFFFF" stroke="#475569" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="985" y="1825.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Display Order</text>
+<text x="985" y="1847.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Confirmation</text>
+<rect x="160.0" y="1936.0" width="330" height="68" rx="13" fill="#FFFFFF" stroke="#2563EB" stroke-width="2.1" filter="url(#shadow)"/>
+<text x="325" y="1976.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#0F172A">Cancel Checkout</text>
+<circle cx="985" cy="1985" r="17.0" fill="#FFFFFF" stroke="#0F172A" stroke-width="3"/>
+<circle cx="985" cy="1985" r="11.0" fill="#0F172A"/>
+<circle cx="325" cy="2070" r="17.0" fill="#FFFFFF" stroke="#0F172A" stroke-width="3"/>
+<circle cx="325" cy="2070" r="11.0" fill="#0F172A"/>
+<text x="960" y="2175" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#64748B">Decision branches are labeled Yes / No. Successful orders are created only after payment confirmation.</text>
+</svg>
