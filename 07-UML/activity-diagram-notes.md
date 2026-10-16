@@ -27,7 +27,9 @@ This UML Activity Diagram models the main TEKINO shopping process from product d
 - Vertical partitions: swimlanes showing responsibility.
 
 ## Related Requirements
-This diagram is consistent with the current functional requirements for browsing/search (FR-01 to FR-03), product details (FR-04), account registration and login (FR-05 and FR-06), cart management (FR-07), checkout and shipping information (FR-08), payment processing (FR-09), order creation (FR-10), and order tracking (FR-11).
+This diagram models the purchase and checkout workflow and is consistent with the current functional requirements for browsing and search (FR-01 to FR-03), product details (FR-04), account registration and login (FR-05 and FR-06), cart management (FR-07), checkout and shipping information (FR-08), payment processing (FR-09), and order creation following successful payment confirmation (FR-10).
+
+Order tracking (FR-11) is represented separately in the Use Case Diagram because it is outside the main purchase workflow modeled by this Activity Diagram.
 
 ## Scope Note
 This diagram represents the intended behavior of the proposed system. It does not claim the software has been implemented. Order creation occurs only after successful payment confirmation has been validated.
