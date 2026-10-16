@@ -75,15 +75,11 @@ The Use Case Diagram identifies the main actors and their interactions with the 
 
 ![TEKINO Use Case Diagram](07-UML/use-case-diagram.png)
 
-[Open the editable Use Case Diagram](07-UML/use-case-diagram.drawio)
-
 ### Activity Diagram — Purchase Process
 
 The Activity Diagram represents the main purchase workflow, including product selection, cart validation, checkout, payment processing, and the successful and unsuccessful payment paths.
 
 ![TEKINO Purchase Activity Diagram](07-UML/activity-diagram.png)
-
-[Open the editable Activity Diagram](07-UML/activity-diagram.drawio)
 
 ## 7. Quality Requirements
 
