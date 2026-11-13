@@ -24,7 +24,7 @@
 ## تکلیف جلسه سوم در TEKINO
 **خواسته استاد:** رسم Use Case و Activity Diagram فرایند اصلی.
 در Use Case، بازیگران Customer، Administrator و Payment Gateway شناسایی شده‌اند. Activity Diagram خرید محصول را از مشاهده و انتخاب کالا تا ورود، بررسی سبد و موجودی، محاسبه مبلغ و پردازش پرداخت مدل می‌کند. مسیر پرداخت ناموفق، تلاش مجدد یا لغو خرید را نشان می‌دهد. طبق FR-10، سفارش نهایی پس از تأیید موفقیت پرداخت ایجاد می‌شود.
-**خروجی:** [Use Case Analysis](../07-UML/use-case-analysis.md)، [Use Case Diagram](../07-UML/use-case-diagram.svg)، [Activity Diagram](../07-UML/activity-diagram.svg)، [Notes](../07-UML/activity-diagram-notes.md).
+**خروجی:** [Use Case Analysis EN](../07-UML/use-case-analysis.md) · [نسخه فارسی](../07-UML/use-case-analysis-fa.md)، [Use Case Diagram](../07-UML/use-case-diagram.svg)، [Activity Diagram](../07-UML/activity-diagram.svg)، [Notes](../07-UML/activity-diagram-notes.md).
 
 ## English summary
 The Use Case Diagram captures system actors and their goals. The Activity Diagram models the main purchase flow, including authentication, cart and stock validation, payment processing, and success/failure paths. The payment gateway is an external actor; failed payment must not be treated as a successful paid order.
