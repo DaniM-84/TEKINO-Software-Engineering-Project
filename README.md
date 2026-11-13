@@ -39,6 +39,27 @@ The planned total is 8 Story Points. This is a planning estimate, not a record o
 
 The team should review completed work, collect feedback, refine the Product Backlog, and use the results to inform subsequent Sprints.
 
+## 5. Course Sessions 1–5 | جلسات اول تا پنجم درس
+
+The first five instructor-defined sessions and their bilingual explanations are documented in [09-Class-Sessions](09-Class-Sessions/README.md).
+
+پنج جلسه اول مطابق برنامه رسمی استاد، همراه با توضیحات فارسی و انگلیسی، در پوشه [09-Class-Sessions](09-Class-Sessions/README.md) مستند شده‌اند.
+
+| Session | Assignment | Deliverable |
+|---|---|---|
+| 1 | Agile, Scrum, five User Stories and Product Backlog | [Session 1 guide](09-Class-Sessions/session-01-agile-scrum.md) |
+| 2 | Stakeholders and Functional / Non-Functional Requirements | [Session 2 guide](09-Class-Sessions/session-02-requirements-engineering.md) |
+| 3 | Use Case and Activity Diagrams | [Session 3 guide](09-Class-Sessions/session-03-requirements-modeling-uml.md) |
+| 4 | Module decomposition, Cohesion and Coupling | [Design analysis](10-Design/module-decomposition-and-cohesion-coupling.md) |
+| 5 | Layered architecture and component interfaces | [Architecture](11-Architecture/layered-architecture.md), [Interfaces](11-Architecture/component-interfaces.md) |
+
+### جلسه چهارم و پنجم
+- [نمودار ماژول‌بندی TEKINO](10-Design/module-decomposition.svg)
+- [نمودار معماری لایه‌ای TEKINO](11-Architecture/layered-architecture.svg)
+- [قرارداد Interface کامپوننت‌ها](11-Architecture/component-interfaces.md)
+
+---
+
 ## 5. Project Documentation
 
 ### Project Analysis
