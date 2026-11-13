@@ -64,25 +64,25 @@ The first five instructor-defined sessions and their bilingual explanations are 
 
 ### Project Analysis
 
-- [Stakeholder Identification](02-Stakeholders/stakeholders.md)
-- [Functional Requirements](03-Requirements/functional-requirements.md)
-- [Non-Functional Requirements](03-Requirements/non-functional-requirements.md)
+- [Stakeholder Identification — English](02-Stakeholders/stakeholders.md) · [فارسی](02-Stakeholders/stakeholders-fa.md)
+- [Functional Requirements — English](03-Requirements/functional-requirements.md) · [فارسی](03-Requirements/functional-requirements-fa.md)
+- [Non-Functional Requirements — English](03-Requirements/non-functional-requirements.md) · [فارسی](03-Requirements/non-functional-requirements-fa.md)
 
 ### Agile Planning
 
-- [User Stories and Acceptance Criteria](04-User-Stories/user-stories.md)
-- [Product Backlog](05-Product-Backlog/product-backlog.md)
-- [Sprint 1 Planning](06-Sprint-Planning/sprint-01.md)
+- [User Stories — English](04-User-Stories/user-stories.md) · [فارسی](04-User-Stories/user-stories-fa.md)
+- [Product Backlog — English](05-Product-Backlog/product-backlog.md) · [فارسی](05-Product-Backlog/product-backlog-fa.md)
+- [Sprint 1 Planning — English](06-Sprint-Planning/sprint-01.md) · [فارسی](06-Sprint-Planning/sprint-01-fa.md)
 
 ### UML Models
 
-- [Use Case Analysis](07-UML/use-case-analysis.md)
+- [Use Case Analysis — English](07-UML/use-case-analysis.md) · [فارسی](07-UML/use-case-analysis-fa.md)
 - [Use Case Diagram — PNG](07-UML/use-case-diagram.png)
 - [Use Case Diagram — Editable draw.io File](07-UML/use-case-diagram.drawio)
 - [Activity Diagram — PNG](07-UML/activity-diagram.png)
 - [Activity Diagram — Editable draw.io File](07-UML/activity-diagram.drawio)
 - [Activity Diagram — SVG](07-UML/activity-diagram.svg)
-- [Activity Diagram Notes](07-UML/activity-diagram-notes.md)
+- [Activity Diagram Notes — English](07-UML/activity-diagram-notes.md) · [فارسی](07-UML/activity-diagram-notes-fa.md)
 
 ### Requirements Traceability
 
