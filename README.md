@@ -4,11 +4,11 @@
 
 TEKINO is an academic software engineering project focused on an e-commerce system for digital products, including smartphones, laptops, tablets, headphones, smartwatches, and accessories.
 
-The project documents the system's stakeholders, requirements, user stories, Product Backlog, Agile Sprint planning, and UML models.
+The project documents the system's stakeholders, requirements, user stories, Product Backlog, Agile Sprint planning, UML models, module decomposition, and a proposed layered architecture.
 
 **Project Type:** Academic Software Engineering Project  
 **Development Approach:** Agile  
-**Current Phase:** Requirements Analysis and UML Modeling
+**Current Phase:** Requirements Analysis, UML Modeling, and Preliminary Design
 
 ## 2. Product Vision
 
@@ -22,6 +22,8 @@ To provide customers with a simple, reliable, and user-friendly online platform 
 - Establish and prioritize a Product Backlog.
 - Plan development work using an Agile Sprint.
 - Model system behavior using UML Use Case and Activity Diagrams.
+- Decompose the system into logical modules and review cohesion and coupling.
+- Propose a layered architecture and define component interface contracts.
 - Maintain project documentation and change history using GitHub.
 
 ## 4. Agile Development Approach
@@ -142,9 +144,9 @@ These requirements are proposed targets and constraints. Their verification resu
 
 ## 10. Current Project Status
 
-The repository currently contains the initial project overview, stakeholder analysis, requirements, five user stories, Product Backlog, Sprint 1 plan, UML diagrams, and requirements traceability documentation.
+The repository currently contains bilingual documentation for the first five course sessions: Agile planning, requirements analysis, UML modeling, module decomposition with cohesion/coupling analysis, and a proposed layered architecture with component interface contracts.
 
-The project is currently focused on analysis, planning, and modeling. Software implementation and test execution are not claimed as completed.
+The project is currently in the analysis, planning, modeling, and preliminary design stages. Software implementation and test execution are not claimed as completed.
 
 ## 11. Academic Reference
 
@@ -281,9 +283,9 @@ TEKINO یک پروژه دانشگاهی در حوزه مهندسی نرم‌اف
 
 ## ۹. وضعیت فعلی پروژه
 
-مخزن GitHub پروژه شامل معرفی اولیه، تحلیل ذی‌نفعان، نیازمندی‌های نرم‌افزار، پنج داستان کاربر، Product Backlog، برنامه‌ریزی اسپرینت اول، نمودارهای UML و مستندات ردیابی نیازمندی‌ها است.
+مخزن GitHub پروژه شامل معرفی اولیه، تحلیل ذی‌نفعان، نیازمندی‌های کارکردی و غیرکارکردی، پنج داستان کاربر، Product Backlog، برنامه‌ریزی اسپرینت اول، نمودارهای UML، تحلیل ماژول‌بندی و Cohesion/Coupling، معماری لایه‌ای پیشنهادی و قراردادهای Interface است.
 
-در حال حاضر، تمرکز پروژه بر تحلیل، برنامه‌ریزی و مدل‌سازی سیستم قرار دارد. پیاده‌سازی نرم‌افزار و اجرای تست‌های واقعی به‌عنوان فعالیت‌های تکمیل‌شده در نظر گرفته نشده‌اند.
+در حال حاضر، پروژه در مرحله تحلیل، برنامه‌ریزی، مدل‌سازی و طراحی اولیه قرار دارد. پیاده‌سازی نرم‌افزار و اجرای تست‌های واقعی به‌عنوان فعالیت‌های تکمیل‌شده در نظر گرفته نشده‌اند.
 
 همچنین برخی نیازمندی‌های کارکردی هنوز به داستان‌های کاربر مستقل و جزئیات بیشتر نیاز دارند و در مستندات تکمیلی مشخص شده‌اند.
 
