@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+<title id="title">TEKINO Layered Architecture</title><desc id="desc">Presentation, application, domain and infrastructure layers, with an external payment provider.</desc>
+<defs><style>.h{font:700 32px Arial,sans-serif;fill:#172033}.s{font:17px Arial,sans-serif;fill:#526078}.lh{font:700 22px Arial,sans-serif;fill:#172033}.txt{font:16px Arial,sans-serif;fill:#334155}.small{font:14px Arial,sans-serif;fill:#64748b}.arr{stroke:#475569;stroke-width:3;fill:none;marker-end:url(#a)}.dash{stroke:#64748b;stroke-width:2.5;stroke-dasharray:9 7;fill:none;marker-end:url(#a)}</style><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L0 6 L9 3z" fill="#475569"/></marker></defs>
+<rect width="1500" height="980" fill="#fff"/>
+<text x="750" y="55" text-anchor="middle" class="h">TEKINO — Layered Architecture</text>
+<text x="750" y="86" text-anchor="middle" class="s">Proposed logical design | معماری منطقی پیشنهادی</text>
+<g>
+<rect x="120" y="135" width="970" height="145" rx="20" fill="#eff6ff" stroke="#3b82f6" stroke-width="2.5"/>
+<text class="lh" x="160" y="178">1. Presentation Layer | لایه نمایش</text><text class="txt" x="160" y="218">Customer Web UI · Admin Dashboard · Product Pages · Cart · Checkout</text><text class="small" x="160" y="250">Collects user input and displays application results</text>
+<rect x="120" y="330" width="970" height="145" rx="20" fill="#f0fdf4" stroke="#16a34a" stroke-width="2.5"/>
+<text class="lh" x="160" y="373">2. Application Layer | لایه کاربرد</text><text class="txt" x="160" y="413">SearchProductsUseCase · UpdateCartUseCase · CheckoutUseCase · Admin Use Cases</text><text class="small" x="160" y="445">Coordinates workflows and invokes domain behavior</text>
+<rect x="120" y="525" width="970" height="145" rx="20" fill="#fff7ed" stroke="#ea580c" stroke-width="2.5"/>
+<text class="lh" x="160" y="568">3. Domain / Business Layer | لایه دامنه و کسب‌وکار</text><text class="txt" x="160" y="608">Product · Cart · Order · Inventory · Payment Rules · Domain Services</text><text class="small" x="160" y="640">Owns business rules and keeps them independent from infrastructure details</text>
+<rect x="120" y="720" width="970" height="145" rx="20" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2.5"/>
+<text class="lh" x="160" y="763">4. Infrastructure Layer | لایه زیرساخت</text><text class="txt" x="160" y="803">Repository Implementations · Database Adapter · Payment Gateway Adapter</text><text class="small" x="160" y="835">Implements technical details and external-system integrations</text>
+</g>
+<path class="arr" d="M605 280 V322"/><path class="arr" d="M605 475 V517"/><path class="arr" d="M605 670 V712"/>
+<rect x="1160" y="370" width="280" height="145" rx="20" fill="#fff" stroke="#64748b" stroke-width="2.5"/>
+<text class="lh" x="1300" y="410" text-anchor="middle">External Systems</text><text class="txt" x="1300" y="448" text-anchor="middle">Payment Provider</text><text class="txt" x="1300" y="475" text-anchor="middle">Email / Delivery (future)</text>
+<path class="dash" d="M1090 790 H1120 V495 H1152"/>
+<text class="small" x="1130" y="820" text-anchor="middle">Adapters / Interfaces</text>
+<rect x="120" y="895" width="1320" height="50" rx="12" fill="#f1f5f9"/>
+<text class="small" x="780" y="926" text-anchor="middle">Conceptual architecture only — technology stack and deployment topology are not yet selected.</text>
+</svg>
