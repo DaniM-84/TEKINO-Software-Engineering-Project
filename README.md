@@ -199,27 +199,29 @@ TEKINO یک پروژه دانشگاهی در حوزه مهندسی نرم‌اف
 
 ## ۵. مستندات پروژه
 
+- [راهنمای کامل جلسات اول تا پنجم، به زبان فارسی و انگلیسی](09-Class-Sessions/README.md)
+
 ### ۵.۱. تحلیل پروژه و نیازمندی‌ها
 
-- [شناسایی ذی‌نفعان (Stakeholders)](02-Stakeholders/stakeholders.md)
-- [نیازمندی‌های کارکردی (Functional Requirements)](03-Requirements/functional-requirements.md)
-- [نیازمندی‌های غیرکارکردی (Non-Functional Requirements)](03-Requirements/non-functional-requirements.md)
+- [شناسایی ذی‌نفعان (Stakeholders)](02-Stakeholders/stakeholders-fa.md)
+- [نیازمندی‌های کارکردی (Functional Requirements)](03-Requirements/functional-requirements-fa.md)
+- [نیازمندی‌های غیرکارکردی (Non-Functional Requirements)](03-Requirements/non-functional-requirements-fa.md)
 
 ### ۵.۲. داستان‌های کاربر و برنامه‌ریزی Agile
 
-- [داستان‌های کاربر و معیارهای پذیرش](04-User-Stories/user-stories.md)
-- [فهرست کارهای محصول (Product Backlog)](05-Product-Backlog/product-backlog.md)
-- [برنامه‌ریزی اسپرینت اول (Sprint 1)](06-Sprint-Planning/sprint-01.md)
+- [داستان‌های کاربر و معیارهای پذیرش](04-User-Stories/user-stories-fa.md)
+- [فهرست کارهای محصول (Product Backlog)](05-Product-Backlog/product-backlog-fa.md)
+- [برنامه‌ریزی اسپرینت اول (Sprint 1)](06-Sprint-Planning/sprint-01-fa.md)
 
 ### ۵.۳. مدل‌سازی UML
 
-- [تحلیل موارد کاربرد (Use Case Analysis)](07-UML/use-case-analysis.md)
+- [تحلیل موارد کاربرد (Use Case Analysis)](07-UML/use-case-analysis-fa.md)
 - [نمودار Use Case — نسخه تصویری](07-UML/use-case-diagram.png)
 - [نمودار Use Case — نسخه قابل‌ویرایش](07-UML/use-case-diagram.drawio)
 - [نمودار Activity — نسخه تصویری](07-UML/activity-diagram.png)
 - [نمودار Activity — نسخه قابل‌ویرایش](07-UML/activity-diagram.drawio)
 - [نمودار Activity — نسخه برداری SVG](07-UML/activity-diagram.svg)
-- [توضیحات نمودار Activity](07-UML/activity-diagram-notes.md)
+- [توضیحات نمودار Activity](07-UML/activity-diagram-notes-fa.md)
 
 ### ۵.۴. مستندات تکمیلی
 
