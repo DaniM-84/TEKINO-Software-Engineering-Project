@@ -8,8 +8,8 @@
 | ۱ | Agile و Scrum | پنج User Story و Product Backlog | [Stories](../04-User-Stories/user-stories.md)، [Backlog](../05-Product-Backlog/product-backlog.md) |
 | ۲ | مهندسی نیازمندی‌ها | ذی‌نفعان و FR/NFR | [Stakeholders EN](../02-Stakeholders/stakeholders.md) · [FA](../02-Stakeholders/stakeholders-fa.md)، [FR EN](../03-Requirements/functional-requirements.md) · [FA](../03-Requirements/functional-requirements-fa.md)، [NFR EN](../03-Requirements/non-functional-requirements.md) · [FA](../03-Requirements/non-functional-requirements-fa.md) |
 | ۳ | مدل‌سازی و UML | Use Case و Activity Diagram | [Use Case](../07-UML/use-case-analysis.md)، [Use Case Diagram](../07-UML/use-case-diagram.svg)، [Activity Diagram](../07-UML/activity-diagram.svg) |
-| ۴ | مفاهیم طراحی | ماژول‌بندی و Cohesion/Coupling | [گزارش ماژول‌بندی](../10-Design/module-decomposition-and-cohesion-coupling.md)، [نمودار](../10-Design/module-decomposition.svg) |
-| ۵ | معماری و طراحی لایه‌ای | Layered Architecture و Component Interfaces | [معماری](../11-Architecture/layered-architecture.md)، [نمودار](../11-Architecture/layered-architecture.svg)، [اینترفیس‌ها](../11-Architecture/component-interfaces.md) |
+| ۴ | مفاهیم طراحی | ماژول‌بندی و Cohesion/Coupling | [گزارش ماژول‌بندی](../10-Design/module-decomposition-and-cohesion-coupling.md)، [SVG](../10-Design/module-decomposition.svg) · [draw.io](../10-Design/module-decomposition.drawio) |
+| ۵ | معماری و طراحی لایه‌ای | Layered Architecture و Component Interfaces | [معماری](../11-Architecture/layered-architecture.md)، [SVG](../11-Architecture/layered-architecture.svg) · [draw.io](../11-Architecture/layered-architecture.drawio)، [اینترفیس‌ها](../11-Architecture/component-interfaces.md) |
 
 ### راهنمای جلسات
 - [Session 1 — Agile and Scrum](session-01-agile-scrum.md)
