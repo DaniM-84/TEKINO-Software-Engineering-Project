@@ -60,7 +60,7 @@ The first five instructor-defined sessions and their bilingual explanations are 
 
 ---
 
-## 5. Project Documentation
+## 6. Project Documentation
 
 ### Project Analysis
 
@@ -88,7 +88,7 @@ The first five instructor-defined sessions and their bilingual explanations are 
 
 - [Requirements Traceability Matrix](08-Documentation/requirements-traceability.md)
 
-## 6. UML Diagrams
+## 7. UML Diagrams
 
 ### Use Case Diagram
 
@@ -107,7 +107,7 @@ The Activity Diagram represents the main purchase workflow, including product se
 [Open the editable Activity Diagram](07-UML/activity-diagram.drawio)
 
 
-## 7. Quality Requirements
+## 8. Quality Requirements
 
 The initial non-functional requirements cover:
 
@@ -122,7 +122,7 @@ The initial non-functional requirements cover:
 
 These requirements are proposed targets and constraints. Their verification results must be recorded only after the relevant reviews or tests have been performed.
 
-## 8. Project Scope
+## 9. Project Scope
 
 ### In Scope
 
@@ -140,13 +140,13 @@ These requirements are proposed targets and constraints. Their verification resu
 - Internal management of delivery company operations
 - A multi-vendor marketplace
 
-## 9. Current Project Status
+## 10. Current Project Status
 
 The repository currently contains the initial project overview, stakeholder analysis, requirements, five user stories, Product Backlog, Sprint 1 plan, UML diagrams, and requirements traceability documentation.
 
 The project is currently focused on analysis, planning, and modeling. Software implementation and test execution are not claimed as completed.
 
-## 10. Academic Reference
+## 11. Academic Reference
 
 Pressman, Roger S., and Bruce R. Maxim. *Software Engineering: A Practitioner's Approach*, 8th and 9th editions.
 
