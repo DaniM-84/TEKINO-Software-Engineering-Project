@@ -54,8 +54,8 @@ The first five instructor-defined sessions and their bilingual explanations are 
 | 5 | Layered architecture and component interfaces | [Architecture](11-Architecture/layered-architecture.md), [Interfaces](11-Architecture/component-interfaces.md) |
 
 ### جلسه چهارم و پنجم
-- [نمودار ماژول‌بندی TEKINO](10-Design/module-decomposition.svg)
-- [نمودار معماری لایه‌ای TEKINO](11-Architecture/layered-architecture.svg)
+- [نمودار ماژول‌بندی TEKINO — SVG](10-Design/module-decomposition.svg) · [قابل‌ویرایش draw.io](10-Design/module-decomposition.drawio)
+- [نمودار معماری لایه‌ای TEKINO — SVG](11-Architecture/layered-architecture.svg) · [قابل‌ویرایش draw.io](11-Architecture/layered-architecture.drawio)
 - [قرارداد Interface کامپوننت‌ها](11-Architecture/component-interfaces.md)
 
 ---
