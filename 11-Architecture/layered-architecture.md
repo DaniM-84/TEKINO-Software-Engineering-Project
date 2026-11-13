@@ -75,4 +75,4 @@ For the current single-vendor e-commerce scope, a layered modular application is
 
 ## 7. Diagram | نمودار
 
-[Open layered-architecture.svg](layered-architecture.svg)
+[SVG preview](layered-architecture.svg) · [Editable draw.io source](layered-architecture.drawio)
