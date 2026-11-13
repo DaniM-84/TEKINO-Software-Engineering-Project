@@ -27,7 +27,7 @@ Stakeholder با Actor یکسان نیست: Actor نقشی است که مستق�
 
 ## تکلیف جلسه دوم در TEKINO
 **خواسته استاد:** شناسایی ذی‌نفعان و استخراج نیازمندی‌های Functional و Non-Functional.
-**خروجی‌ها:** [Stakeholders](../02-Stakeholders/stakeholders.md)، [Functional Requirements](../03-Requirements/functional-requirements.md) (FR-01 تا FR-14)، [Non-Functional Requirements](../03-Requirements/non-functional-requirements.md) (NFR-01 تا NFR-12).
+**خروجی‌ها:** [Stakeholders EN](../02-Stakeholders/stakeholders.md) · [نسخه فارسی](../02-Stakeholders/stakeholders-fa.md)، [FR EN](../03-Requirements/functional-requirements.md) · [نسخه فارسی](../03-Requirements/functional-requirements-fa.md) (FR-01 تا FR-14)، [NFR EN](../03-Requirements/non-functional-requirements.md) · [نسخه فارسی](../03-Requirements/non-functional-requirements-fa.md) (NFR-01 تا NFR-12).
 
 ## English summary
 Requirements engineering identifies stakeholder needs, analyzes and negotiates them, specifies requirements, validates them, and manages change. Functional requirements define system services; non-functional requirements define quality attributes and constraints. TEKINO documents eight stakeholder groups, fourteen functional requirements, and twelve proposed non-functional requirements.
