@@ -24,9 +24,9 @@
 | Agile | ۳ | ۵ |
 | Understanding Requirements | ۷ | ۸ |
 | Requirements Modeling | ۸ | ۹ تا ۱۱ |
-| Design Concepts | ۹ | ۱۲ |
+| Design Concepts and Modularity | ۹ | ۱۲ |
 | Architectural Design | ۱۰ | ۱۳ |
-| Component-Level Design | ۱۱ | ۱۴ |
+| Component-Level Design (Cohesion/Coupling detail) | ۱۱ | ۱۴ |
 
 شماره فصل برنامه استاد با ویرایش نهم منطبق است. ویرایش هشتم ساختار متفاوتی دارد؛ به همین دلیل عنوان موضوع در کنار شماره فصل آورده شده است.
 
