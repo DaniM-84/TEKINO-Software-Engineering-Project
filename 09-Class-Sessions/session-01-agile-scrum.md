@@ -30,7 +30,7 @@ Acceptance Criteria رفتار مورد انتظار را به شرایط روش
 ## تکلیف جلسه اول در TEKINO
 **خواسته استاد:** پنج User Story و Product Backlog اولیه.
 پنج داستان عبارت‌اند از US-01 Browse and Search Products، US-02 View Product Details، US-03 Register and Log In، US-04 Manage Shopping Cart و US-05 Place an Order and Make Payment. برای همه معیار پذیرش تعریف شده و در Backlog اولویت، Story Point و وضعیت اولیه ثبت شده است. US-01 و US-02 برای Sprint اول انتخاب شده‌اند؛ مجموع تخمین ۸ Story Points است و صرفاً تخمین برنامه‌ریزی است.
-**خروجی:** [User Stories](../04-User-Stories/user-stories.md)، [Product Backlog](../05-Product-Backlog/product-backlog.md)، [Sprint 1](../06-Sprint-Planning/sprint-01.md).
+**خروجی:** [User Stories EN](../04-User-Stories/user-stories.md) · [نسخه فارسی](../04-User-Stories/user-stories-fa.md)، [Product Backlog EN](../05-Product-Backlog/product-backlog.md) · [نسخه فارسی](../05-Product-Backlog/product-backlog-fa.md)، [Sprint 1](../06-Sprint-Planning/sprint-01.md).
 
 ## English summary
 Agile supports incremental delivery, frequent inspection, and adaptation. Scrum organizes work through accountabilities, events, and artifacts. TEKINO has five initial user stories with acceptance criteria and an ordered Product Backlog. The first proposed Sprint selects browsing and product details. Its 8 Story Points are relative planning estimates, not implementation evidence.
