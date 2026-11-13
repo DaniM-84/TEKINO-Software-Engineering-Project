@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860" role="img" aria-labelledby="title desc">
+<title id="title">TEKINO logical module decomposition</title><desc id="desc">Logical modules of the TEKINO e-commerce system and their key interactions.</desc>
+<defs><style>
+.h{font:700 30px Arial,sans-serif;fill:#172033}.sub{font:16px Arial,sans-serif;fill:#526078}
+.box{fill:#f8fafc;stroke:#64748b;stroke-width:2;rx:18}.head{font:700 19px Arial,sans-serif;fill:#172033}.body{font:15px Arial,sans-serif;fill:#334155}
+.edge{stroke:#64748b;stroke-width:2.4;fill:none;marker-end:url(#arrow)}.note{font:14px Arial,sans-serif;fill:#64748b}
+</style><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#64748b"/></marker></defs>
+<rect width="1400" height="860" fill="#fff"/>
+<text x="700" y="54" text-anchor="middle" class="h">TEKINO — Logical Module Decomposition</text>
+<text x="700" y="83" text-anchor="middle" class="sub">Proposed modular-monolith design | تحلیل منطقی ماژول‌ها</text>
+<rect x="40" y="116" width="1320" height="660" rx="26" fill="#fcfdff" stroke="#94a3b8" stroke-width="2.4"/>
+<text x="700" y="150" text-anchor="middle" class="sub">TEKINO Application Boundary</text>
+<g>
+<rect class="box" x="95" y="190" width="270" height="122"/><text class="head" x="230" y="224" text-anchor="middle">Catalog</text><text class="body" x="230" y="254" text-anchor="middle">Browse · Search · Filter</text><text class="body" x="230" y="279" text-anchor="middle">Product details</text>
+<rect class="box" x="565" y="190" width="270" height="122"/><text class="head" x="700" y="224" text-anchor="middle">Shopping Cart</text><text class="body" x="700" y="254" text-anchor="middle">Add · Update · Remove</text><text class="body" x="700" y="279" text-anchor="middle">Cart total</text>
+<rect class="box" x="1035" y="190" width="270" height="122"/><text class="head" x="1170" y="224" text-anchor="middle">Identity &amp; Access</text><text class="body" x="1170" y="254" text-anchor="middle">Registration · Login</text><text class="body" x="1170" y="279" text-anchor="middle">Authorization</text>
+<rect class="box" x="95" y="420" width="270" height="122"/><text class="head" x="230" y="454" text-anchor="middle">Inventory</text><text class="body" x="230" y="484" text-anchor="middle">Stock · Availability</text><text class="body" x="230" y="509" text-anchor="middle">Reservation</text>
+<rect class="box" x="565" y="420" width="270" height="122"/><text class="head" x="700" y="454" text-anchor="middle">Order</text><text class="body" x="700" y="484" text-anchor="middle">Checkout · Validation</text><text class="body" x="700" y="509" text-anchor="middle">Order lifecycle</text>
+<rect class="box" x="1035" y="420" width="270" height="122"/><text class="head" x="1170" y="454" text-anchor="middle">Payment</text><text class="body" x="1170" y="484" text-anchor="middle">Payment initiation</text><text class="body" x="1170" y="509" text-anchor="middle">Status verification</text>
+<rect class="box" x="330" y="635" width="300" height="100"/><text class="head" x="480" y="674" text-anchor="middle">Administration</text><text class="body" x="480" y="702" text-anchor="middle">Product · Inventory · Orders</text>
+<rect class="box" x="770" y="635" width="300" height="100"/><text class="head" x="920" y="674" text-anchor="middle">Persistence</text><text class="body" x="920" y="702" text-anchor="middle">Repositories · Data storage</text>
+</g>
+<path class="edge" d="M365 251 H565"/><path class="edge" d="M835 251 H1035"/>
+<path class="edge" d="M700 312 V420"/>
+<path class="edge" d="M365 481 H565"/><path class="edge" d="M835 481 H1035"/>
+<path class="edge" d="M700 542 V590 H480 V635"/>
+<path class="edge" d="M700 542 V590 H920 V635"/>
+<path class="edge" d="M230 542 V590 H480"/>
+<path class="edge" d="M1170 542 V590 H920"/>
+<rect x="70" y="790" width="1260" height="40" rx="10" fill="#eef2f7"/><text x="700" y="816" text-anchor="middle" class="note">Arrows indicate conceptual collaboration, not an exact runtime call sequence. External payment provider is accessed through an adapter.</text>
+</svg>
