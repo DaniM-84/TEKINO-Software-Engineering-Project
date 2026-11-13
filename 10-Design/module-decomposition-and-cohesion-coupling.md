@@ -68,7 +68,7 @@ For the current academic scope, TEKINO is modeled as a **modular monolith**: log
 
 ## 7. Deliverable and Limitations | خروجی و محدودیت
 
-- Diagram: [module-decomposition.svg](module-decomposition.svg)
+- Diagram: [SVG preview](module-decomposition.svg) · [editable draw.io source](module-decomposition.drawio)
 - Related requirements: FR-01 to FR-14.
 - This is a logical design proposal, not implemented source code.
 - The proposed boundaries should be reviewed if new requirements or technology constraints are introduced.
